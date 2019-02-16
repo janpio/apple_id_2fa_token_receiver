@@ -18,7 +18,7 @@ Only deliver SMS that were reveived _after_ the first request for a unique id.
 
 ### Potential SMS providers
 
-- [Twilio](https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply
+- [Twilio](https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply)
 - [infobip](https://dev.infobip.com/receive-sms)
 - [TextMagic](https://www.textmagic.com/docs/api/receive-sms/)
 - [Clockwork](https://www.clockworksms.com/doc/easy-stuff/http-interface/receive-sms/)
