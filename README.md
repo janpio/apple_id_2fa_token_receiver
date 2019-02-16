@@ -9,6 +9,7 @@ It also offers an API for other applications to retrieve the saved SMS (of parts
 ### Incoming API
 
 Recieve webhooks from SMS providers to ingest SMS.
+As the SMS providers don't all have the same format, being able to specify the parameters as a parameter itself would be nice.
 
 ### Outgoing API
 
