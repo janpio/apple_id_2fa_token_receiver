@@ -1,4 +1,4 @@
-# apple_id_2fa_token_receiver
+# sms-forwarder-server
 
 Server side application that can use an 3rd party API to receive SMS and safe it locally. 
 
