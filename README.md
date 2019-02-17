@@ -1,4 +1,4 @@
-# sms-forwarder-server
+# sms_forwarder-server
 
 Server side application that can use an 3rd party API to receive SMS and safe it locally. 
 
